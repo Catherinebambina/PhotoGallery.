@@ -1,0 +1,33 @@
+.link {
+
+    text-decoration: none;
+    text-decoration-style:none;
+    color: cornflowerblue;
+    list-style: none;
+    float: left;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+.menu {
+    text-decoration: none;
+    text-decoration-style:none;
+}
+body {
+    text-align: center;
+}
+.link:hover {
+    cursor:pointer;
+}
+.img2 {
+    height:250;
+    width:250;
+}
+.img3 {
+    height:250;
+    width:250;
+}
+.img4 {
+    height:250;
+    width:250;
+}
